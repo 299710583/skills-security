@@ -3,7 +3,7 @@ import requests
 from requests.exceptions import RequestException
 
 # ===================== 核心配置 =====================
-GITHUB_TOKEN = "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"
+# GITHUB_TOKEN = ""
 REPO_OWNER = "lxyeternal"
 REPO_NAME = "IntelGuard"
 BRANCH = "main"
